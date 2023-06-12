@@ -1,0 +1,242 @@
+[
+    {
+        "leafname": "Rasna",
+        "sciname": "Vanda roxburghii",
+        "description": "Rasna is a medicinal herb used for its anti-inflammatory properties in Ayurveda.",
+        "usage": "Helps relieve joint pain and stiffness.",
+        "origin": "India",
+        "feature": "Anti-inflammatory"
+    },
+    {
+        "leafname": "Arive-Dantu",
+        "sciname": "Tinospora cordifolia",
+        "description": "Arive-Dantu is a medicinal vine used for its antioxidant properties in Ayurveda.",
+        "usage": "Helps boost immunity and reduce inflammation.",
+        "origin": "India",
+        "feature": "Antioxidant-rich"
+    },
+    {
+        "leafname": "Jackfruit",
+        "sciname": "Artocarpus heterophyllus",
+        "description": "Jackfruit is a nutrient-dense fruit that is popular in many tropical regions of the world.",
+        "usage": "High in fiber and antioxidants, can help with digestion and provide immune support.",
+        "origin": "India",
+        "feature": "Nutrient-dense"
+    },
+    {
+        "leafname": "Neem",
+        "sciname": "Azadirachta indica",
+        "description": "Neem is a tree with antimicrobial properties that is commonly used in Ayurvedic medicine.",
+        "usage": "Used to treat skin disorders, respiratory infections, and as a blood purifier.",
+        "origin": "India",
+        "feature": "Antimicrobial"
+    },
+    {
+        "leafname": "Basale",
+        "sciname": "Basella alba",
+        "description": "Basale is a leafy vegetable that is high in iron and commonly used in Indian cuisine.",
+        "usage": "Used to treat anemia and boost iron levels in the body.",
+        "origin": "India",
+        "feature": "High-iron"
+    },
+    {
+        "leafname": "Indian Mustard",
+        "sciname": "Brassica juncea",
+        "description": "Indian Mustard is a cruciferous vegetable and a digestive aid.",
+        "usage": "Stimulates digestion and helps regulate bowel movements.",
+        "origin": "India",
+        "feature": "Digestive aid"
+    },
+    {
+        "leafname": "Karanda",
+        "sciname": "Carissa carandas",
+        "description": "Karanda is a medicinal shrub that has been traditionally used for fever and inflammation.",
+        "usage": "Helps reduce fever and inflammation.",
+        "origin": "India",
+        "feature": "Antipyretic"
+    },
+    {
+        "leafname": "Lemon",
+        "sciname": "Citrus limon",
+        "description": "Lemon is a citrus fruit that is rich in Vitamin C and used in various culinary and medicinal applications.",
+        "usage": "Used to treat scurvy, improve digestion, and promote weight loss.",
+        "origin": "India",
+        "feature": "Vitamin C-rich"
+    },
+    {
+        "leafname": "Roxburgh fig",
+        "sciname": "Ficus roxburghii",
+        "description": "Roxburgh fig is a medicinal tree used for its antidiabetic properties in Ayurveda.",
+        "usage": "Helps regulate blood sugar levels and improve insulin sensitivity.",
+        "origin": "India",
+        "feature": "Antidiabetic"
+    },
+    {
+        "leafname": "Peepal Tree",
+        "sciname": "Ficus religiosa",
+        "description": "Peepal Tree is considered sacred in many cultures and is used for its medicinal properties in Ayurveda.",
+        "usage": "Used to treat respiratory infections, digestive disorders, and to improve oral health.",
+        "origin": "India",
+        "feature": "Sacred plant"
+    },
+    {
+        "leafname": "Jasmine",
+        "sciname": "Jasminum",
+        "description": "Jasmine is a fragrant flower used in traditional medicine for its anti-inflammatory and analgesic properties.",
+        "usage": "Used to treat headaches, joint pain, and skin conditions.",
+        "origin": "India",
+        "feature": "Fragrant"
+    },
+    {
+        "leafname": "Mango",
+        "sciname": "Mangifera indica",
+        "description": "Mango is a delicious fruit that is high in antioxidants and has various health benefits.",
+        "usage": "Used to improve digestion, boost immunity, and protect against cancer.",
+        "origin": "India",
+        "feature": "High in antioxidants"
+    },
+    {
+        "leafname": "Mint",
+        "sciname": "Mentha",
+        "description": "Mint is a herb used for its refreshing flavor and medicinal properties.",
+        "usage": "Used to treat digestive disorders, relieve headaches, and improve oral health.",
+        "origin": "Mediterranean region",
+        "feature": "Refreshing"
+    },
+    {
+        "leafname": "Drumstick",
+        "sciname": "Moringa oleifera",
+        "description": "Drumstick is a tree that is highly nutritious and has been used for its medicinal properties for centuries.",
+        "usage": "Used to boost energy levels, improve digestion, and lower inflammation.",
+        "origin": "India",
+        "feature": "Highly nutritious"
+    },
+    {
+        "leafname": "Jamaica Cherry-Gasagase",
+        "sciname": "Pitanga",
+        "description": "Jamaica Cherry, also known as Gasagase, is a small fruit that is high in antioxidants and Vitamin C.",
+        "usage": "Used to improve heart health, boost immunity, and promote healthy skin.",
+        "origin": "South America",
+        "feature": "High in Vitamin C"
+    },
+    {
+        "leafname": "Curry",
+        "sciname": "Murraya koenigii",
+        "description": "Curry leaves are a popular spice used in Indian cuisine and are also known for their medicinal properties.",
+        "usage": "Used to treat digestive disorders, lower cholesterol, and promote hair health.",
+        "origin": "India",
+        "feature": "Spice"
+    },
+    {
+        "leafname": "Oleander",
+        "sciname": "Nerium oleander",
+        "description": "Oleander is a highly toxic plant that is used in traditional medicine for its medicinal properties.",
+        "usage": "Used to treat heart conditions, skin disorders, and as a painkiller.",
+        "origin": "Mediterranean region",
+        "feature": "Highly toxic"
+    },
+    {
+        "leafname": "Parijata",
+        "sciname": "Nyctanthes arbor-tristis",
+        "description": "Parijata is a tree with fragrant flowers that is used in Ayurved",
+        "usage": "Used to treat skin conditions, fever, and rheumatism. Its flowers are also used in traditional Indian medicine.",
+        "origin": "India",
+        "feature": "Fragrant"
+    },
+    {
+        "leafname": "Tulsi",
+        "sciname": "Ocimum tenuiflorum",
+        "description": "Tulsi is a sacred plant in Hinduism and is known for its medicinal properties.",
+        "usage": "Used to treat respiratory problems, fever, and digestive disorders. It is also a natural insect repellent.",
+        "origin": "India",
+        "feature": "Aromatic"
+    },
+    {
+        "leafname": "Betel",
+        "sciname": "Piper betle",
+        "description": "Betel is a vine that is popular in Southeast Asia for its medicinal and cultural significance.",
+        "usage": "Used as a digestive aid, breath freshener, and to treat coughs and headaches. It is also used in religious ceremonies.",
+        "origin": "Southeast Asia",
+        "feature": "Stimulant"
+    },
+    {
+        "leafname": "Mexican Mint",
+        "sciname": "Plectranthus amboinicus",
+        "description": "Mexican Mint is a succulent herb with a strong aroma and medicinal properties.",
+        "usage": "Used to treat respiratory and digestive problems, skin conditions, and fever. It is also used as a culinary herb.",
+        "origin": "Mexico",
+        "feature": "Aromatic"
+    },
+    {
+        "leafname": "Indian Beech",
+        "sciname": "Pongamia pinnata",
+        "description": "Indian Beech is a large tree that is used for its medicinal and industrial properties.",
+        "usage": "Used to treat skin conditions, fever, and inflammation. Its oil is also used in biodiesel production.",
+        "origin": "India",
+        "feature": "Bitter"
+    },
+    {
+        "leafname": "Guava",
+        "sciname": "Psidium guajava",
+        "description": "Guava is a tropical fruit tree that is used for its medicinal and culinary properties.",
+        "usage": "Used to treat diarrhea, dysentery, and respiratory problems. Its leaves are also used to make tea.",
+        "origin": "Central America",
+        "feature": "Sweet"
+    },
+    {
+        "leafname": "Pomegranate",
+        "sciname": "Punica granatum",
+        "description": "Pomegranate is a fruit tree that is used for its medicinal and culinary properties.",
+        "usage": "Used to treat diarrhea, dysentery, and respiratory problems. Its juice is also rich in antioxidants.",
+        "origin": "Iran",
+        "feature": "Sour"
+    },
+    {
+        "leafname": "Hibiscus",
+        "sciname": "Hibiscus sabdariffa",
+        "description": "Hibiscus is a tropical plant that is used for its medicinal and culinary properties.",
+        "usage": "Used to treat high blood pressure, liver disease, and fever. Its flowers are also used to make tea.",
+        "origin": "Africa",
+        "feature": "Tart"
+    },
+    {
+        "leafname": "Sandalwood",
+        "sciname": "Santalum album",
+        "description": "Aromatic tree with fragrant heartwood and highly valued essential oil.",
+        "usage": "Used in Ayurvedic medicine for its antiseptic, anti-inflammatory, and astringent properties. Also used in perfumes and cosmetics.",
+        "origin": "India",
+        "feature": "Fragrant"
+    },
+    {
+        "leafname": "Jamun",
+        "sciname": "Syzygium cumini",
+        "description": "Fruit-bearing tree with edible, purplish-black berries and seeds that have medicinal properties.",
+        "usage": "Used in Ayurvedic medicine to manage blood sugar levels, improve digestion, and treat skin diseases.",
+        "origin": "India",
+        "feature": "Berries"
+    },
+    {
+        "leafname": "Rose Apple",
+        "sciname": "Syzygium jambos",
+        "description": "Tree with fragrant flowers and edible fruit that resembles a pear or apple.",
+        "usage": "Used in traditional medicine to treat diarrhea, dysentery, and cough. Also used in perfumes and as a food flavoring.",
+        "origin": "Southeast Asia",
+        "feature": "Fruity"
+    },
+    {
+        "leafname": "Crape Jasmine",
+        "sciname": "Tabernaemontana divaricata",
+        "description": "Shrub with white, fragrant flowers and glossy leaves that are toxic if ingested.",
+        "usage": "Used in Ayurvedic medicine to treat skin diseases, fever, and cough. Also used in traditional medicine for its sedative and antispasmodic properties.",
+        "origin": "Southeast Asia",
+        "feature": "Toxic"
+    },
+    {
+        "leafname": "Fenugreek",
+        "sciname": "Trigonella foenum-graecum",
+        "description": "Herb with small, golden-brown seeds that have a bitter taste and a strong, distinctive aroma.",
+        "usage": "Used in Ayurvedic medicine to stimulate digestion, lower blood sugar levels, and promote milk production in lactating mothers.",
+        "origin": "Mediterranean region",
+        "feature": "Aromatic"
+    }
+]
